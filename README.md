@@ -1,4 +1,4 @@
-# Instagram Story Auto-Swiper
+# Instagram Story Automation
 ## This project automates swiping through Instagram stories on an Android device using WebdriverIO and Appium.
 
 ## Functionality
