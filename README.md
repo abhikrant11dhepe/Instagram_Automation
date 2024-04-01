@@ -34,5 +34,5 @@
 - Waits for the next story to load; exits the loop if no new story is found.
 
 ## Notes
-### - The XPath //*[@resource-id="com.instagram.android:id/avatar_image_view"] targets the story elements. You might need to adjust this if Instagram's interface changes.
-### - This code provides a basic structure for automating Instagram story viewing. You can add further customizations or error handling as needed.
+##### - The XPath //*[@resource-id="com.instagram.android:id/avatar_image_view"] targets the story elements. You might need to adjust this if Instagram's interface changes.
+##### - This code provides a basic structure for automating Instagram story viewing. You can add further customizations or error handling as needed.
